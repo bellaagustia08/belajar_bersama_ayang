@@ -1,1 +1,1 @@
-sembarangan 
+aplikasi versi 2
